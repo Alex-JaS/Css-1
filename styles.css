@@ -35,6 +35,7 @@ a:visited{
     border-radius:50px ;
     
    box-shadow: 9px 3px 11px 0px rgb(95 91 89 / 98%);
+  margin-left:-20px ;
 }
 
  
@@ -54,7 +55,7 @@ a:visited{
       
     }
     .info-text{
-      margin-left: 0px ;
+      margin-left:30px ;
     }
     .info-text h4{
       margin-bottom: 10px;
